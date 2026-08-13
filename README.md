@@ -24,32 +24,23 @@ I specialize in building responsive layouts, interactive components, and smooth 
 ### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode&theme=dark" width="420" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode&theme=dark" width="480" alt="Skills" />
 </div>
 
 <br/>
 
-#### Languages & Technologies
+**Technologies I work with:**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-</p>
-
-#### Also working with
-- **Git** – Version control
+- **HTML5** – Semantic & accessible markup
+- **CSS3** – Modern layouts, Flexbox, Grid, Animations
+- **JavaScript (ES6+)** – DOM manipulation, interactivity, logic
+- **React** – Component-based UI development
+- **Python** – Scripting & problem solving
+- **Git & GitHub** – Version control & collaboration
+- **VS Code** – Primary code editor
 - **Tailwind CSS** – Utility-first styling
 - **Responsive Design** – Mobile-first approach
-- **Netlify / Vercel** – Deployment
+- **Netlify / Vercel** – Easy deployment
 
 ---
 
