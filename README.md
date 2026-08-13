@@ -24,7 +24,7 @@ I specialize in building responsive layouts, interactive components, and smooth 
 ### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode&theme=dark" width="480" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,tailwind,github,vscode&theme=dark" width="520" alt="Skills" />
 </div>
 
 <br/>
@@ -36,9 +36,9 @@ I specialize in building responsive layouts, interactive components, and smooth 
 - **JavaScript (ES6+)** – DOM manipulation, interactivity, logic
 - **React** – Component-based UI development
 - **Python** – Scripting & problem solving
+- **Tailwind CSS** – Utility-first styling
 - **Git & GitHub** – Version control & collaboration
 - **VS Code** – Primary code editor
-- **Tailwind CSS** – Utility-first styling
 - **Responsive Design** – Mobile-first approach
 - **Netlify / Vercel** – Easy deployment
 
