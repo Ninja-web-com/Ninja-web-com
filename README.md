@@ -5,10 +5,8 @@
 ### Frontend Developer | Building Clean & Modern Web Experiences
 
 📍 Karachi, Pakistan  
-🌐 Passionate about creating responsive, user-friendly websites and applications
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ninja--web--com-181717?style=for-the-badge&logo=github)](https://github.com/Ninja-web-com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 </div>
 
@@ -21,30 +19,37 @@ I enjoy turning ideas into beautiful, functional websites using the latest web t
 
 I specialize in building responsive layouts, interactive components, and smooth user experiences — whether it's a simple landing page or a full multi-page website.
 
-Currently working on real-world projects including tourism platforms and premium camping retreat websites.
-
 ---
 
 ### 🛠️ Skills & Tools
 
-#### Languages & Core Technologies
-- **HTML5** – Semantic & accessible markup
-- **CSS3** – Modern layouts, Flexbox, Grid, Animations
-- **JavaScript (ES6+)** – DOM manipulation, interactivity, logic
-- **React** – Component-based UI development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode&theme=dark" width="420" alt="Skills" />
+</div>
 
-#### Tools & Workflow
+<br/>
+
+#### Languages & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+</p>
+
+#### Also working with
 - **Git** – Version control
-- **GitHub** – Collaboration & project hosting
-- **VS Code** – My primary code editor
 - **Tailwind CSS** – Utility-first styling
 - **Responsive Design** – Mobile-first approach
-- **Netlify / Vercel** – Easy deployment
-
-#### Currently Exploring
-- Advanced React patterns
-- Performance optimization
-- Better UI/UX practices
+- **Netlify / Vercel** – Deployment
 
 ---
 
@@ -67,7 +72,7 @@ I believe in continuous improvement. Every project is a chance to write cleaner 
 
 ### 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate, have a project idea, or just want to talk about frontend development.
+Feel free to reach out if you want to collaborate or have a project idea.
 
 **GitHub:** [Ninja-web-com](https://github.com/Ninja-web-com)
 
