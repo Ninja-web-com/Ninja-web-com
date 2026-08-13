@@ -21,6 +21,16 @@ I specialize in building responsive layouts, interactive components, and smooth 
 
 ---
 
+### 📂 Featured Repository
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninja-web-com&repo=Ninja-web-com&theme=dark)](https://github.com/Ninja-web-com/Ninja-web-com)
+
+</div>
+
+---
+
 ### 🛠️ Skills & Tools
 
 <div align="center">
